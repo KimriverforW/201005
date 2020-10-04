@@ -1,0 +1,6 @@
+<style type="text/css">
+	.text{text-align:center; color:red;}
+	.box{width:81%; height:35%; border:1px solid black; display: flex; align-items:center; justify-content:space-between; flex-direction: row;}
+	.mini-box{width:85px; height:85px; background-color:black; transition-property:all; transition-duration:2s;}
+	.mini-box:hover {transform:rotate(360deg); margin-top:180px;}
+</style>
